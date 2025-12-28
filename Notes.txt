@@ -3,3 +3,5 @@ Notes :
 On this document is missing the data from the CMEMS and the Random Forest models. The files were to big to be added on Github.
 If you want to use the web app you will need to train models for each species. The code is construct for this, but you will need to upload the CMEMS files yourself. 
 And so modify a few the code as you need to make the code work. 
+
+When you'll get the models for each species, you would be able to launch the apps (V2 for ponctual prediction and V3 for spatial density map) using the terminal of your computer. You should first go to the folder where is store the python files of the app. Then you have to right the next line : "streamlit run name_of_files.py". of course you need to replace " name_of_files.py " by the name of the app file. For this porject it is "app_webV2.py" or app_webV3.py".
