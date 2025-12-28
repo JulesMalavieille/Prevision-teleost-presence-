@@ -1,0 +1,5 @@
+Notes : 
+
+On this document is missing the data from the CMEMS and the Random Forest models. The files were to big to be added on Github.
+If you want to use the web app you will need to train models for each species. The code is construct for this, but you will need to upload the CMEMS files yourself. 
+And so modify a few the code as you need to make the code work. 
